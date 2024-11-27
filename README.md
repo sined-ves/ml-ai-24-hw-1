@@ -31,4 +31,4 @@
 docker build -t sined-ves-ml-ai-24-hw-1:v1.0.0 .
 docker run --rm -d -p 8080:8080 --name sined-ves-ml-ai-24-hw-1 sined-ves-ml-ai-24-hw-1:v1.0.0
 ```
-* screencast
+* [screencast](https://drive.google.com/file/d/1BIfGQHDQuwEizoZ6rGK2H25HvfukRX6N/view?usp=drive_link)
